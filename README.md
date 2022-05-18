@@ -5,10 +5,8 @@
 Runs the app in the development mode.\
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-#### Created an application that allows us to create client side routing in our react project.
-#### It allows us to create dynamic routes and fetch api calls based on route parameters.
+### Created an application that allows us to create client side routing in our react project.
+### It allows us to create dynamic routes and fetch api calls based on route parameters.
 
 
 ![react-router](https://user-images.githubusercontent.com/92852665/169067965-0d375eb9-013c-466d-9948-0fac261452b4.gif)
